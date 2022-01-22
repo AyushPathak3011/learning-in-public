@@ -1,5 +1,4 @@
-# Want to learn programming ?
-# Learn it the right way
+# Want to learn programming ? Learn it the right way
 
 This is a repository where you can track your learnings daily.
 
