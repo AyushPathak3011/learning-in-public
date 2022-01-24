@@ -7,3 +7,6 @@
    * Java setup 
    * Java basics 
    * Conditionals and loops in Java  
+* Day 3 (24-Jan-2022)
+   * Completed Solidity lesson 1 
+   * Created a randomizer in Solidity 
