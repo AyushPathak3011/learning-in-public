@@ -10,3 +10,7 @@
 * Day 3 (24-Jan-2022)
    * Completed Solidity lesson 1 
    * Created a randomizer in Solidity 
+* Day 4 (25-Jan-2022)
+   * Switch statements
+   * Nested Switch statements
+   * Problems on conditionals and Switch statements
