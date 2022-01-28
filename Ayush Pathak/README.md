@@ -18,7 +18,11 @@
     * Methods in Java
     * Scoping, Method scope, Block scope
     * Shadowing, Overloading
-* Day-6 26-Jan-2022
+* Day-6 27-Jan-2022
     * Problem Solving
     * Project Euler questions
     * Arrays in Java
+* Day-7 28-Jan-2022
+    * Multi Dimensional arrays
+    * ArrayLists in Java
+    * Problem Solving
