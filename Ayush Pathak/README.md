@@ -14,15 +14,19 @@
    * Switch statements
    * Nested Switch statements
    * Problems on conditionals and Switch statements
-* Day-5 26-Jan-2022
+* Day-5 (26-Jan-2022)
     * Methods in Java
     * Scoping, Method scope, Block scope
     * Shadowing, Overloading
-* Day-6 27-Jan-2022
+* Day-6 (27-Jan-2022)
     * Problem Solving
     * Project Euler questions
     * Arrays in Java
-* Day-7 28-Jan-2022
+* Day-7 (28-Jan-2022)
     * Multi Dimensional arrays
     * ArrayLists in Java
+    * Problem Solving
+* Day-8 (29-Jan-2022)
+    * Linear search algorithm for Arays
+    * Linear search algorithm for 2D Arays
     * Problem Solving
