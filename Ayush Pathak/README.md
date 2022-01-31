@@ -30,3 +30,6 @@
     * Linear search algorithm for Arays
     * Linear search algorithm for 2D Arays
     * Problem Solving
+* Day-9 (31-Jan-2022)
+    * Binary search algorithm 
+    * Problem Solving
