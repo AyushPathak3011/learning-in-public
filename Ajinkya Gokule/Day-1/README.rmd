@@ -1,0 +1,4 @@
+* Day-2 31-Jan 2022
+    * Learnt to calculate efficiency of an algorithm
+    * Linear search
+    * Binary search
