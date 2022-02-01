@@ -3,8 +3,8 @@
  [Video Link](https://youtu.be/n60Dn0UsbEk)
 
 ### Easy
-- [ ] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
-- [ ] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+- [x] [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+- [x] [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 - [ ] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [x] [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 - [ ] [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
