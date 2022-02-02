@@ -33,6 +33,9 @@
 * Day-9 (31-Jan-2022)
     * Binary search algorithm 
     * Problem Solving
-* Day-10 1-Feb-2022
+* Day-10 (1-Feb-2022)
     * Order Agnostic Binary search algorithm 
     * Problem Solving
+* Day-11 (2-Feb-2022)
+    * Leetcode problems on Arrays and Searching
+
